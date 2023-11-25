@@ -2,14 +2,14 @@
 
 # Limpeza:
 recent
-prefetch
-temp
-%temp%
-cleanmgr
-msconfig
-MRT
-taskschd.msc
-chkdsk c:/f
+-prefetch
+-temp
+-%temp%
+-cleanmgr
+-msconfig
+-MRT
+-taskschd.msc
+-chkdsk c:/f
 
 
 
