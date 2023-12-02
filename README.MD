@@ -303,3 +303,10 @@ Function arredBaixo(valor)
  arredBaixo = Round(Round(valor, 2) - tmpValor, 0)
 End Function
 
+
+# Excel (Estatisticas)
+CONT.NUM - Conta o numero de celulas que contem valores numericos em um intervalo
+MEDIA.SE - Calcula a media das celulas em um intervalo que atendem a determinado criterio
+MEDIANA - Calcula o valor do meio de um conjunto de numeros
+DESVPAD - Calcula o desvio padrão com base em uma população
+QUARTIL - Retorna o valor do quartil especifico de um conjunto de dados
